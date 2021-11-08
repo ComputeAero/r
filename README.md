@@ -1,7 +1,7 @@
 ## Tools for R
 
 ## extractDate.R
-This file contains a function, which could be used to extract the date from a string. Currently it supports multiple formats:
+This file contains a function, which could be used to extract the date from a string. Currently it supports multiple formats (from 1800-2099):
 1. yyyymmdd
 2. yyyy-mm-dd
 3. yyyy/mm/dd
