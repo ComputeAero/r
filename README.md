@@ -1,4 +1,4 @@
-# Tools for R
+## Tools for R
 
 ## extractDate.R
 This file contains a function, which could be used to extract the date from a string. Currently it supports multiple formats:
